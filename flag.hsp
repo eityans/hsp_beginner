@@ -1,0 +1,7 @@
+*flag1
+	cls
+	goto *flag3
+*flag2
+	mes "skip"
+*flag3
+	mes "execute"
